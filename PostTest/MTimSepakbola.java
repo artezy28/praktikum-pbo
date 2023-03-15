@@ -1,3 +1,8 @@
+/**
+* File : MTimSepakbola.java 15/Maret/2023
+* Penulis : Majid Ilham Adhim
+* Deskripsi : driver class untuk TimSepakbola
+**/
 class MTimSepakbola {
   public static void main(String[] args) {
     // TODO: Make an instance called 'liverpool' -> use constructor which you have made before
