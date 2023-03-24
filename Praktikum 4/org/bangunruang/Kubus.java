@@ -16,8 +16,7 @@ public class Kubus{
     }
 
     public double hitungVolume(){
-        double sisi = permukaan.getPanjangSisi();
-        return sisi*sisi*sisi;
+	return this.hitungLuasAlas() * this.permukaan.getPanjangSisi();
     }
 
     public double hitungLuasAlas(){
