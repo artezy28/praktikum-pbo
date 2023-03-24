@@ -11,7 +11,6 @@ public class BujurSangkar extends Poligon{
 	private double panjangsisi;
 	
 	public BujurSangkar(double panjangsisi){
-		this.jumlahSisi = 4;
 		this.panjangsisi = panjangsisi;
 	}
 	
